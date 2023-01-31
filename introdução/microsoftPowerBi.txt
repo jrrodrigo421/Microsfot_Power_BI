@@ -1,0 +1,25 @@
+Microsoft Power BI Para Business Intelligence e Data Science
+
+
+O Que é o Microsoft Power BI?
+
+
+
+Microsoft Power BI é uma plataforma de Business Intelligence (BI) da Microsoft que permite aos usuários visualizar e analisar dados de diferentes fontes, criar relatórios e dashboards interativos e compartilhar insights com outros usuários.
+
+
+O Power BI permite que os usuários conectem-se a diversas fontes de dados, incluindo planilhas, bancos de dados, serviços de nuvem e aplicativos, e transformem esses dados em informações valiosas.
+
+
+Com o Power BI, os usuários podem importar, limpar, transformar e modelar dados, criar relatórios e visualizações e publicá-los em um ambiente compartilhado (na versão paga). Ele também tem recursos avançados como dashboards interativos, análise de dados, Inteligência Artificial e automatização de relatórios.
+
+
+Neste curso usaremos a versão gratuita do Power BI, o Power BI Desktop.
+
+
+Muito Obrigado!
+
+
+Equipe DSA
+
+

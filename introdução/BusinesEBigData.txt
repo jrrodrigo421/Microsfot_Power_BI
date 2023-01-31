@@ -1,0 +1,37 @@
+Microsoft Power BI Para Business Intelligence e Data Science
+
+
+Business Intelligence e Big Data
+
+
+
+Business Intelligence (BI) e Big Data são duas áreas relacionadas. BI é um conjunto de técnicas e ferramentas usadas para transformar dados em informações valiosas para a tomada de decisões de negócios. Enquanto Big Data se refere a grandes quantidades de dados, provenientes de uma variedade de fontes e com diferentes formatos.
+
+
+A capacidade de processar grandes quantidades de dados é uma das principais vantagens do Big Data, pois permite coletar e armazenar dados de muitas fontes diferentes, incluindo transações de negócios, dados de redes sociais, registros de sensores e outros tipos de dados não estruturados. BI usa esses dados para criar insights e entender tendências que podem ser usadas para melhorar a eficiência e rentabilidade dos negócios.
+
+
+Portanto, Big Data é uma fonte de informação para Business Intelligence e as ferramentas de BI foram se adaptando para lidar com essa quantidade de dados. Essas duas áreas trabalham juntas para ajudar as empresas a tomar decisões melhores e mais informadas.
+
+
+Assim, uma outra área na qual o “Self-Service” BI está decolando é a análise de Big Data. Este é um fenômeno mais recente, mas está gerando um incrível crescimento e inovação. Big Data geralmente se refere a grandes conjuntos de dados que são simplesmente muito grandes para ser gerenciados ou consultados com ferramentas tradicionais de análise de dados. Esse volume imenso de dados é resultado da explosão de ferramentas de geração de dados, rastreamento, monitoramento, transações e redes sociais (para citar alguns) que se tornaram tão populares nos últimos anos.
+
+
+Não só essas ferramentas geram cargas de novos dados, mas também geram um novo tipo de dado, chamado dados "não estruturados". Em termos gerais, dados não estruturados são simplesmente dados que não foram organizados de forma predefinida. Ao contrário de dados mais tradicionais e estruturados, esse tipo de dado é composto em larga escala por texto, ao mesmo tempo que contém dados mais facilmente definidos, como datas ou números de identificação. Exemplos de aplicativos que geram esse tipo de dado incluem as ferramentas de acompanhamento do comportamento do cliente que você usa para ver o que os clientes estão fazendo em um site de comércio eletrônico, as pilhas de log e arquivos de eventos gerados a partir de alguns dispositivos inteligentes (como alarmes e smart sensores) e ferramentas de rastreamento de redes sociais de larga escala.
+
+
+As empresas que estão implantando essas ferramentas estão sendo desafiadas não só por um dilúvio súbito de dados não estruturados que reduzem rapidamente os recursos de armazenamento, mas, ainda mais importante, estão encontrando dificuldades para consultar esta nova informação.
+
+
+As ferramentas tradicionais de armazenamento de dados não foram projetadas para gerenciar ou consultar dados não estruturados (Bancos de dados relacionais e Data Warehouses tradicionais). Novas inovações de armazenamento de dados, como os Data Lakes, estão emergindo para resolver essa necessidade, mas as organizações que ainda dependem exclusivamente de ferramentas tradicionais ao implantar aplicativos que geram dados não estruturados geralmente se encontram sentadas em montanhas de dados que não sabem como usar.
+
+
+E Data Science compreender um conjunto de técnicas e procedimentos que permitem a análise de Big Data. Quando se encontram é o que chamamos de Big Data Analytics.
+
+
+Muito Obrigado!
+
+
+Equipe DSA
+
+

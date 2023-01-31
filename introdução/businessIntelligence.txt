@@ -1,0 +1,40 @@
+Microsoft Power BI Para Business Intelligence e Data Science
+
+
+O Que é Business Intelligence?
+
+
+
+Business Intelligence (BI) é um conjunto de técnicas e ferramentas utilizadas para transformar dados em informações úteis para a tomada de decisão empresarial. BI permite aos usuários analisar dados de diferentes fontes, criar relatórios e visualizações e monitorar indicadores-chave de desempenho (KPIs) para ajudar a identificar tendências e oportunidades. As ferramentas de BI incluem relatórios, dashboards, mineração de dados, análise estatística e até Inteligência Artificial.
+
+
+Normalmente usamos BI a fim de olhar para o passado e compreender o que aconteceu. Qual foi o volume de vendas por estado? Qual produtos vendeu mais em qual dia da semana? Quais lojas tiveram melhor desempenho de vendas? Todas essas são perguntas tipicamente respondidas com BI.
+
+
+Existem muitos exemplos de como a Business Intelligence (BI) pode ser usada para melhorar a tomada de decisão em diferentes setores. Alguns exemplos incluem:
+
+
+Em finanças, uma empresa pode usar BI para analisar dados financeiros, como receita, despesas e lucro, para identificar tendências e prever resultados futuros. Isso pode ajudar a identificar oportunidades de economia e crescimento.
+
+
+Em vendas, uma empresa pode usar BI para analisar dados de vendas, como volume de vendas, receita e margem de lucro, para identificar tendências e oportunidades. Isso pode ajudar a identificar produtos ou regiões que estão performando bem ou mal e tomar medidas para aumentar as vendas.
+
+
+Em operações, uma empresa pode usar BI para monitorar indicadores-chave de desempenho (KPIs), como tempo de ciclo de produção, taxa de defeitos e disponibilidade de equipamentos, para identificar problemas e oportunidades de melhoria.
+
+
+Em recursos humanos, uma empresa pode usar BI para analisar dados de funcionários, como taxa de rotatividade, tempo de serviço e desempenho, para identificar tendências e oportunidades. Isso pode ajudar a identificar problemas com o clima organizacional ou com programas de treinamento e desenvolvimento.
+
+
+Em saúde, os sistemas de Business Intelligence podem ser usados para monitorar e analisar os dados de pacientes, como histórico médico, resultados de exames e tratamentos, a fim de identificar tendências e tendências de saúde, bem como identificar problemas de saúde e fornecer informações para a tomada de decisão clínica.
+
+
+Neste curso vamos trazer para você exemplos de aplicações de BI em diversas áreas de negócio.
+
+
+Muito Obrigado!
+
+
+Equipe DSA
+
+

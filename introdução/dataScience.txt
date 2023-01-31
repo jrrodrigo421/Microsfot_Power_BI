@@ -1,0 +1,46 @@
+Microsoft Power BI Para Business Intelligence e Data Science
+
+
+O Que é Data Science?
+
+
+
+Data Science (Ciência de Dados) é um campo interdisciplinar que combina matemática, estatística e computação para extrair conhecimento e insights úteis a partir de grandes conjuntos de dados.
+
+
+Os profissionais de Data Science usam técnicas de análise estatística, mineração de dados, aprendizado de máquina e Inteligência Artificial para explorar e entender os dados, criar modelos para prever resultados e comunicar os insights obtidos para ajudar na tomada de decisão. Data Science é amplamente utilizada em vários setores, como finanças, saúde, marketing, varejo e tecnologia.
+
+
+Existem muitos exemplos de como Data Science pode ser usada para melhorar as operações e aumentar a eficiência em diferentes setores. Alguns exemplos incluem:
+
+
+Em marketing, uma empresa pode usar técnicas de Data Science para analisar dados de comportamento do cliente, como histórico de compras, buscas e cliques em anúncios, para segmentar melhor o público-alvo e personalizar as campanhas de marketing.
+
+
+Em finanças, uma empresa pode usar técnicas de Data Science para analisar dados financeiros, como transações bancárias e dados de mercado, para identificar tendências e prever resultados futuros. Isso pode ajudar a identificar oportunidades de investimento e riscos.
+
+
+Em vendas, uma empresa pode usar técnicas de Data Science para analisar dados de vendas, como volume de vendas e histórico de clientes, para prever a demanda e otimizar as estratégias de vendas.
+
+
+Em operações, uma empresa pode usar técnicas de Data Science para analisar dados de produção, como tempo de ciclo de produção e taxa de defeitos, para identificar problemas e oportunidades de melhoria.
+
+
+Em saúde, os sistemas de Data Science podem ser usados para monitorar e analisar os dados de pacientes, como histórico médico, resultados de exames e tratamentos, para identificar tendências de saúde, bem como identificar problemas de saúde e fornecer informações para a tomada de decisão clínica.
+
+
+Em logística, os sistemas de Data Science podem ser usados para otimizar rotas de entrega, prever demanda e usar algoritmos de Machine Learning para acompanhar e prever tendências de transporte e logística.
+
+
+Esses são apenas alguns exemplos da ampla gama de aplicações de Data Science nas empresas, que podem ser utilizadas para melhorar a eficiência, aumentar a receita e tomar decisões informadas.
+
+
+Vamos abordar algumas dessas técnicas na segunda parte deste curso.
+
+
+Muito Obrigado!
+
+
+Equipe DSA
+
+
